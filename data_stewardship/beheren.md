@@ -1,1 +1,6 @@
-
+# Beheer van Data en Projecten
+Een efficiënt en gestructuurd beheer van data en scripts is essentieel binnen elk onderzoek om betrouwbaarheid en reproduceerbaarheid te waarborgen. Door een duidelijke mappenstructuur aan te houden, blijven bestanden overzichtelijk en gemakkelijk terug te vinden, wat tijd bespaart en fouten voorkomt.
+Een consistente en informatieve naamgeving van bestanden helpt om snel inzicht te krijgen in de inhoud en versie van data of scripts. Versiebeheer, bijvoorbeeld met Git, maakt het mogelijk om veranderingen bij te houden, samen te werken met anderen en eerdere versies te herstellen indien nodig.
+Goede documentatie in scripts, zoals README-bestanden, is belangrijk om het doel van de code helder te maken. Platforms zoals GitHub worden veel gebruikt om scripts te delen.
+Daarnaast gebeurt data-analyse vaak met tools die veilige opslag en verwerking ondersteunen, waarbij het beschermen van gevoelige of persoonlijke data belangrijk is. Dit betekent dus het naleven van privacywetgeving en het toepassen van beveiligingsmaatregelen. 
+Het openstellen van data en het publiceren van datasets draagt bij aan transparantie, versnelt wetenschappelijke vooruitgang en maakt het mogelijk dat anderen resultaten kunnen verifiëren en hergebruiken.
