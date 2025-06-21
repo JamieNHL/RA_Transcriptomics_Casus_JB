@@ -1,1 +1,5 @@
-
+# Gebruik van GitHub voor Data Stewardship
+Voor deze transcriptomics casus is GitHub ingezet als centraal platform om alle projectgegevens, scripts en resultaten te beheren en te delen. Door een duidelijke mappenstructuur aan te houden, met aparte mappen voor ruwe data, verwerkte data, scripts, resultaten en documentatie, blijft het project overzichtelijk en zijn bestanden snel terug te vinden. Dit bevordert de reproduceerbaarheid van het onderzoek, omdat alle benodigde informatie op een plek staat.
+Versiebeheer maakt het mogelijk om elke wijziging in scripts en documentatie vast te leggen. Dit biedt inzicht in de ontwikkeling van het project en maakt het eenvoudig om eerste versies eventueel te herstellen. Bovendien kan hierdoor op een gestructureerde manier samengewerkt worden.
+Door uitgebreide documentatie, zoals deze README, wordt de inhoud en opzet van het onderzoek helder uitgelegd. Dit maakt het onderzoek repliceerbaar of kan hier gemakkelijk vervolg onderzoek op gedaan worden.
+Kortom het gebruik van GitHub als data steward platform zorgt voor een duidelijke, gestructureerde en reproduceerbare onderzoeksflow, waarbij zowel data als analyse volledig traceerbaar zijn.
