@@ -10,9 +10,11 @@ Voor dit onderzoek werden synoviumbiopten verzameld van 8 personen: 4 personen n
 
 ## Resultaten
 De differentiële expressieanalyse (Volcano_RA_Analysis) toonde een breed spectrum aan genen met significante veranderingen tussen de RA- en controlegroepen. In de Volcanoplot werd duidelijk dat de meeste genen relatief kleine veranderingen in expressie vertoonden, met foldchange-waarden voornamelijk rond 0. Enkele genen vielen echter op door hun sterke afwijkingen, waaronder ANKRD30BL en MT_ND6 (sterk verlaagd in RA) en SRGN (sterk verhoogd in RA).
-![Volcanoplot van de RA-analyse. De X-as geeft de fold change weer en de Y-as geeft de statistische significantie weer.](Resultaten/Volcano_RA_Analysis.png)
+![Volcanoplot van de RA-analyse.](Resultaten/Volcano_RA_Analysis.png)
 De KEGG Pathway analyse (KEGG_dotplot) toonde significante verrijkingen in pathways die relevant zijn voor ontstekingen en immuunrespons. De MAPK-signaleringsroute had de hoogste gene ratio, gevolgd door pathways zoals de Epstein-Barr virus infectie, NOD-like receptor signalering, TNF-signaleringsroute, NF-kB signalering en IL-17 signalering. Dit wijst op een activatie van ontstekingsroutes en immuuncascade die bekend zijn bij RA-pathagonese.
+![KEGG dotplot van de RA-analyse](Resultaten/kegg_dotplot.png)
 De Gene Ontology Analyse (GO_Plot) richtte zich op biologische processen en vond overrepresentatie in processen zoals neutrofiele chemotaxis, regulatie van autophagie, toll like receptor signalering en positieve regulatie van tumor necrose factor productie. Hoewel 40% van de genen verloren ging tijdens het correctieproces voor genlengte, gaven de resultaten een duidelijk beeld van immuun- en ontstekingsgerelateerde pathways die veranderden bij RA.
+![GO-Plot van de RA-analyse](Resultaten/GO_plot.png)
 
 ## Conclusie
 De transcriptomics-analyse van de synoviumbiopten van personen met RA en controle groepen toonden significante verschillen in gen-expressie. Verdere analyse middels KEGG-pathway en Gene Ontology-analyse, bracht belangrijke ontstekings- en immuunroutes aan het licht die bij de pathogenese van RA betrokken zijn, zoals de MAPK-, TNF-, NF-kB en IL-17 signaleringsroutes. De geïdentificeerde genen en geassocieerde pathways bevestigen dat ontstekings- en immuunroutes een centrale rol spelen bij RA.
