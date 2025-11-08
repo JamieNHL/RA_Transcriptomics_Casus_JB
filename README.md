@@ -15,6 +15,7 @@ De KEGG Pathway analyse (KEGG_dotplot) toonde significante verrijkingen in pathw
 ![KEGG dotplot van de RA-analyse](Resultaten/kegg_dotplot.png)
 De Gene Ontology Analyse (GO_Plot) richtte zich op biologische processen en vond overrepresentatie in processen zoals neutrofiele chemotaxis, regulatie van autophagie, toll like receptor signalering en positieve regulatie van tumor necrose factor productie. Hoewel 40% van de genen verloren ging tijdens het correctieproces voor genlengte, gaven de resultaten een duidelijk beeld van immuun- en ontstekingsgerelateerde pathways die veranderden bij RA.
 ![GO-Plot van de RA-analyse](Resultaten/GO_plot.png)
+De figuren en analyses geven een overzicht van de differentiële genexpressie en de geassocieerde pathways in het synovium van RA-patiënten en controles.
 
 ## Conclusie
 De transcriptomics-analyse van de synoviumbiopten van personen met RA en controle groepen toonden significante verschillen in gen-expressie. Verdere analyse middels KEGG-pathway en Gene Ontology-analyse, bracht belangrijke ontstekings- en immuunroutes aan het licht die bij de pathogenese van RA betrokken zijn, zoals de MAPK-, TNF-, NF-kB en IL-17 signaleringsroutes. De geïdentificeerde genen en geassocieerde pathways bevestigen dat ontstekings- en immuunroutes een centrale rol spelen bij RA.
